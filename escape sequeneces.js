@@ -18,3 +18,5 @@ console.log(myStr);
 
 var myStr = "Fourtline with?\r"
 console.log(myStr);
+
+console.log('i am doing "good" how are "you"');
