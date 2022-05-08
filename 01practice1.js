@@ -36,7 +36,8 @@ console.log(arr);
 console.log(arr[2][2][0]);
 
 var str = "I am gonna make it!";
-var strDouble = 0;
-strDouble += str;
-str += strDouble;
+var strDouble = 0; // 0
+strDouble += str; // 0 = 0 + i am gonna make it! = i am gonna make it!
+str += strDouble; //i am gonna make it! = i am gonna make it! + 0i am gonna make it! 
+// = i am gonna make it!0i am gonna make it!
 console.log(str);
