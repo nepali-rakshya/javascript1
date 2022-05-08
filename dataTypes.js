@@ -9,7 +9,7 @@
 7. object
 
 
-************* VARAIBLES: *************
+************* VARIABLES: *************
 
 Its a box or container used for storing values.
 
