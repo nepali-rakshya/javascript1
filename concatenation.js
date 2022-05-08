@@ -5,7 +5,7 @@ console.log(myStr);
 // compound operators
 
 var myStr = "I have a definite goal and purpose!";
-myStr += " I will make everything come true with tons of hardwork!"
+myStr += " I will make everything come true with tons of hard work!"
 
 console.log(myStr);
 
