@@ -34,3 +34,9 @@ arr = [
 console.log(arr);
 
 console.log(arr[2][2][0]);
+
+var str = "I am gonna make it!";
+var strDouble = 0;
+strDouble += str;
+str += strDouble;
+console.log(str);
