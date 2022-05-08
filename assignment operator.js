@@ -18,7 +18,7 @@ console.log(a);
 ====================================================================*/
 
 var c /*this is initializing a var*/ = 10;
-/*this is assinging value to a var with assingment operator*/
+/*this is assigning value to a var with assignment operator*/
 
 
 
@@ -31,7 +31,7 @@ var b;
 var c; // it means their values are undefined
 
 // Now, this is called as assigning variables
-// This is called as initialized variables with assingment operators.
+// This is called as initialized variables with assignment operators.
 
 var a = 3;
 var b = 6;
