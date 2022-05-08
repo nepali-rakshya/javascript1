@@ -1,11 +1,11 @@
 /*javascript is case sensitive in case of variable name and function
 use camelCase to declare variable name
 
-initializing, declaring, uninitialized, assingning value to a var*/
+initializing, declaring, uninitialized, assigning value to a var*/
 
 
 
-// Declariations
+// Declarations
 var StuDyCASE;
 
 
