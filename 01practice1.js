@@ -33,7 +33,7 @@ arr = [
 ];
 console.log(arr);
 
-console.log(arr[2][2][0]);
+console.log(arr[2][2][1]);
 
 var str = "I am gonna make it!";
 var strDouble = 0; // 0
