@@ -10,3 +10,22 @@ console.log(ourArray);
 
 addArray = ourArray.push(5);
 console.log(ourArray);
+
+
+//* example of shift()
+
+var typeArr = [
+    [1, 2],
+    ["Rakshya", "Nepali"],
+    ["is", "here"]
+];
+
+var removeFirstArr = typeArr.shift();
+var addFirstArr = typeArr.push(["Queen"]);
+// var addLastArr = typeArr.pop();
+
+console.log(removeFirstArr);
+console.log(addFirstArr);
+// console.log(addLastArr);
+
+console.log(typeArr);
