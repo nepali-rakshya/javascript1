@@ -17,15 +17,17 @@ console.log(ourArray);
 var typeArr = [
     [1, 2],
     ["Rakshya", "Nepali"],
-    ["is", "here"]
+    ["is"],
+    ["here"]
 ];
 
 var removeFirstArr = typeArr.shift();
-var addFirstArr = typeArr.push(["Queen"]);
-// var addLastArr = typeArr.pop();
+console.log(typeArr);
 
-console.log(removeFirstArr);
-console.log(addFirstArr);
-// console.log(addLastArr);
 
+var addLastArr = typeArr.pop();
+console.log(typeArr);
+
+
+var addFirstArr = typeArr.push(["a Queen"]);
 console.log(typeArr);
