@@ -20,3 +20,4 @@ myFunction();
 one
 two
 three
+fourth
