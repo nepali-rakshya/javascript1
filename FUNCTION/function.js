@@ -17,13 +17,13 @@ function myFunction() {
 }
 
 myFunction();
-one
-two
-three
-fourth
-fifth
-sixth
-seventh
-eighth
-ninth
-tenth
+
+
+function helloWorld() {
+    console.log(
+        "I am so much happy"
+    )
+}
+
+helloWorld();
+helloWorld();
