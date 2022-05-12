@@ -19,3 +19,4 @@ function myFunction() {
 myFunction();
 one
 two
+three
