@@ -33,8 +33,10 @@ function rakArray(a, b, c, d) {
     arr.unshift(["Rakku"]);
     console.log(arr);
     console.log(rakValue + " " + arr.shift());
+    console.log(arr.length);
 }
 
+rakValue++;
 rakArray("Rakshya", "is", 20, 2);
 console.log(rakValue);
 console.log(arr);
