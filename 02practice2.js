@@ -38,5 +38,5 @@ function rakArray(a, b, c, d) {
 
 rakValue++;
 rakArray("Rakshya", "is", 20, 2);
-console.log(rakValue);
-console.log(arr);
+console.log(rakValue); //global variable
+console.log(arr); //local variable
