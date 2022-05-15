@@ -11,3 +11,4 @@ console.log("After: " + JSON.stringify(testArr));
 one
 two
 three
+four
